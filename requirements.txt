@@ -1,0 +1,6 @@
+pathlib
+pandas
+numpy
+scikit-learn
+transformers
+torch
