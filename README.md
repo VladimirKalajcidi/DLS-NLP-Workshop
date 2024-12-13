@@ -1,2 +1,2 @@
 # DLS-NLP-Workshop
-Deep Learning School Workshop (multiclass classification)
+Deep Learning School Workshop (multilabel classification)
